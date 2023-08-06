@@ -1,6 +1,7 @@
-﻿using System;
-using alfasoftexercicio.DbContext;
+﻿
+using alfasoftexercicio.Contexto;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
